@@ -5,35 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 55.373508 55.373508"
-   height="209.28571"
    width="209.28571"
-   sodipodi:docname="delete.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="714"
-     id="namedview9"
-     showgrid="false"
-     inkscape:zoom="1.1276451"
-     inkscape:cx="-84.689766"
-     inkscape:cy="97.548415"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+   height="209.28571"
+   viewBox="0 0 55.373508 55.373508"
+   version="1.1"
+   id="svg8">
   <defs
      id="defs2" />
   <metadata
@@ -44,28 +20,28 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-102.62529,-92.370657)"
-     id="layer1">
+     id="layer1"
+     transform="translate(-102.62529,-92.370657)">
     <circle
-       style="stroke-width:0.51001918"
-       r="27.686754"
-       cy="120.05741"
+       id="path12"
        cx="130.31204"
-       id="path12" />
+       cy="120.05741"
+       r="27.686754"
+       style="stroke-width:0.51001918" />
   </g>
   <rect
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-     id="rect833-3"
-     width="11.731675"
-     height="36.602829"
-     x="21.995649"
-     y="-45.633736"
-     rx="0"
+     transform="rotate(90)"
      ry="0"
-     transform="rotate(90)" />
+     rx="0"
+     y="-45.633736"
+     x="21.995649"
+     height="36.602829"
+     width="11.731675"
+     id="rect833-3"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
 </svg>
